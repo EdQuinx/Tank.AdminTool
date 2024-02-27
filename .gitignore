@@ -1,0 +1,12 @@
+*.cache
+*.suo
+*.dll
+*.pdb
+*.exe
+*.config
+*.xml
+*.log
+.vs
+*.application
+obj
+logs
